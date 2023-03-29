@@ -2,6 +2,7 @@
 # Daily News App: Using React.js & Bootstrap
 
 Daily News App is a simple and fast app that lets you get the latest headlines from various sources in one place. You can choose from different categories, such as world, business, sports, entertainment, Technology etc., and browse through the news articles from reputable media outlets.
+👉👉👉[*Link Live*](https://top-daily-news-app.netlify.app/)👈👈👈
 
 ## Challenge
 - User can choose from different categories, such as world, business, sports, entertainment, etc., and browse through the news articles from reputable media outlets.
@@ -15,7 +16,7 @@ Hi everyone! I am a React.Js learner and this is my 2nd project at learning stag
 
 In this project, I decided to create a News app where User can choose  different categories, such as world, business, sports, entertainment, Technology etc.. I used the Bing News Search API to fetch the weather data and React-Router to navigate between different pages. I also used some custom hooks and components to make the code more reusable and maintainable.
 
-This project was a great way to learn more about React.js and how to use APIs, hooks, and routing. I enjoyed working on this project and I think it turned out pretty well. You can check out the live demo here: 👉👉👊 [Daily News App](https://reactjs.org/)
+This project was a great way to learn more about React.js and how to use APIs, hooks, and routing. I enjoyed working on this project and I think it turned out pretty well. You can check out the live demo here: 👉👉👊 [Daily News App](https://top-daily-news-app.netlify.app/)
 
 If anyone have any suggestion or correction plz feel free to give a pull request . We can improve this app as much as beautiful and workable in future . Thank you for reading and happy coding!
 ### Built with
