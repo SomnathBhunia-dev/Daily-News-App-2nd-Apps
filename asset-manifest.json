@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Daily-News-App-2nd-Apps/static/css/main.827893e8.css",
+    "main.js": "/Daily-News-App-2nd-Apps/static/js/main.71167966.js",
+    "index.html": "/Daily-News-App-2nd-Apps/index.html",
+    "main.827893e8.css.map": "/Daily-News-App-2nd-Apps/static/css/main.827893e8.css.map",
+    "main.71167966.js.map": "/Daily-News-App-2nd-Apps/static/js/main.71167966.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.827893e8.css",
+    "static/js/main.71167966.js"
+  ]
+}
