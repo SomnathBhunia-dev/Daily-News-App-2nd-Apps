@@ -40,6 +40,6 @@ If anyone have any suggestion or correction plz feel free to give a pull request
 
 ## Screenshots
 
-![App Screenshot](https://1drv.ms/i/s!AlyoFXq0ThQjiL5XgUGYuiMD6NIhxg?e=7kA0oh)
+![App Screenshot](https://user-images.githubusercontent.com/114075731/228539097-ce6bf818-aa1f-4c44-9b20-47cd81d11f73.png)
 
-![Dark Mode ](https://1drv.ms/i/s!AlyoFXq0ThQjiL5ag89Lzw9GQu1ZqA?e=x7gmuH)
+![Dark Mode ](https://user-images.githubusercontent.com/114075731/228539416-c94cf239-d454-49ef-86ab-ecb34c6cc245.png)
